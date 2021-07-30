@@ -6,6 +6,7 @@ My take on a single page book promotion type of website
 Tools used:
  - HTML/CSS
  - Bootstrap 4
+ - Sass (for editing bootstrap source code)
 
 
 Main Features:
@@ -16,3 +17,4 @@ Main Features:
 
 Disclaimer:
   - Used the lorem30 extension pack for Visual Studio Code to generate place holder blocks of text
+  
