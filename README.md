@@ -1,6 +1,6 @@
 # Mamma-Mia-Website
 
-My take on a book promotion type of website 
+My take on a single page book promotion type of website 
 
 
 Tools used:
@@ -11,7 +11,8 @@ Tools used:
 Main Features:
   - Fully responsive to all screen sizes (using bootstrap and custom media queries)
   - collapsable text areas
+  - Navbar links utilize scroll spy and smooth scrolling
   - Overall great look and feel to the site
 
 Disclaimer:
-  - 
+  - Used the lorem30 extension pack for Visual Studio Code to generate place holder blocks of text
