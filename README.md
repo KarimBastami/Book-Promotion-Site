@@ -1,4 +1,4 @@
-# Mamma-Mia-Website
+# MammaMia - Book Promotion Site
 
 My take on a single page book promotion type of website 
 
